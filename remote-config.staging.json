@@ -1,0 +1,4 @@
+{
+  "apiBase": "https://staging-api.example.com",
+  "ttlMs": 2592000000
+}

@@ -1,0 +1,4 @@
+{
+  "apiBase": "https://api.example.com",
+  "ttlMs": 2592000000
+}

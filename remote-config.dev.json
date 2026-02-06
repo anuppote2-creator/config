@@ -1,0 +1,4 @@
+{
+  "apiBase": "http://localhost:3001",
+  "ttlMs": 2592000000
+}
